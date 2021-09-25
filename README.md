@@ -32,3 +32,5 @@
 <a href="https://github.com/PercyOfficial/handle-path-oz">
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=parkseojoon2005&show_icons=true&theme=midnight-purple" />
   </a>
+  
+- <p align="left"> <a href="https://github.com/PercyOfficial"><img src="https://github-profile-trophy.vercel.app/?username=parkseojoon2005&no-bg=true" alt="parkseojoon2005" /></a> </p>
