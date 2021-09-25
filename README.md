@@ -1,4 +1,4 @@
-### Hi there ,I'm Park Seo Joon👋
+### Hi  Dear,I'm Park Seo Joon👋
 
 
 
@@ -25,10 +25,9 @@
     <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="" srcset=""></a>
     <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="" srcset=""></a>
     <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="" srcset=""></a>
-    
-  
-
-
+    <a href="https://heroku.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="" srcset=""></a>
+    <a href="https://repl.it/"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt=""></a>
+    <a href="https://github.com/action/"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="" srcset=""></a>
 
 
 <p align="center">
@@ -37,7 +36,11 @@
     <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="" srcset=""></a>
   
 </p>
-<br>
+<br>    
+  
+
+
+
 
 
 
