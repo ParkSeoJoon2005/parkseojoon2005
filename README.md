@@ -13,7 +13,7 @@
 - 💬 Ask me in [Telegram](https://t.me/boy_alone_in_universe)
 - 📫 How to reach me: in Telegram
 - 😄 Pronouns: Anthony
-- ⚡ Fun fact: South Korean Lover
+- ⚡ Fun fact: I'm Still Learning
 
 
 
@@ -38,3 +38,23 @@
 - [![Intagramfollowers](https://img.shields.io/badge/Instagram%20Followers-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://socialblade.com/instagram/user/mr.matheesha_official)
   
 - <p align="left"> <a href="https://github.com/parkseojoon2005"><img src="https://github-profile-trophy.vercel.app/?username=parkseojoon2005&no-bg=true" alt="parkseojoon2005" /></a> </p>
+
+
+### Things I Like
+
+## South Korea🇰🇷
+
+<p align="center">
+  <img src="https://telegra.ph/file/ed9dd08d068ad9cc33c3c.jpg" alt="BTS Logo">
+</p>
+<h1 align="center">
+
+
+## •K Pop Fan
+
+
+  
+<p align="center">
+  <img src="https://telegra.ph/file/2cf90a4565a2f6a3bbdf7.jpg" alt="BTS Logo">
+</p>
+<h1 align="center">
