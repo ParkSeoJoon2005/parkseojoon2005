@@ -48,9 +48,10 @@
   <img src="https://telegra.ph/file/ed9dd08d068ad9cc33c3c.jpg" alt="BTS Logo">
 </p>
 <h1 align="center">
+    
 
 
-## •K Pop Fan
+## • K Pop Fan
 
 
   
@@ -66,7 +67,22 @@
 
   <img src="https://telegra.ph/file/ad7ea0bf5cdd14e7b3f63.jpg" alt="Logo">
 </p>
-<h1 align="center">  
+<h1 align="center"> 
+    
+### •Astronomy  
+    
+  <p align="left">
+  <img src="https://telegra.ph/file/e28e19a4743d5849027d9.jpg" alt="Logo">
+</p>
+<h1 align="left">  
+    
+
+
+#apan
+•Mysteries
+
+And More...
     
     
     
+   
