@@ -42,7 +42,12 @@
 
 ### Things I Like
 
-## South Korea🇰🇷
+## •SouthKorea
+## •Japan
+## •Mysteries 
+## •Knowledge 
+
+### South Korea🇰🇷
 
 <p align="center">
   <img src="https://telegra.ph/file/ed9dd08d068ad9cc33c3c.jpg" alt="BTS Logo">
@@ -78,10 +83,10 @@
     
 
 
-#apan
-•Mysteries
 
-And More...
+
+
+
     
     
     
