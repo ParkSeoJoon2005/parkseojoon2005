@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on In My World
-- 🌱 I’m can HTML,PASCAL And etc...
+- 🌱I can HTML,PASCAL And etc...
 - ☘️ Also Learning Python (not now)
 - 👯 I’m looking Happiness In My Friends 
 - 🤔 I’m looking for Repositories On Telegram 
