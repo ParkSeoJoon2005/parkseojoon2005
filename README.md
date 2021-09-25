@@ -14,4 +14,21 @@
 - 📫 How to reach me: in Telegram
 - 😄 Pronouns: Anthony
 - ⚡ Fun fact: South Korean Lover
--
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Statics
+
+<a href="https://github.com/PercyOfficial/handle-path-oz">
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=parkseojoon2005&show_icons=true&theme=midnight-purple" />
+  </a>
