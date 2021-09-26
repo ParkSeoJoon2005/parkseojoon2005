@@ -9,11 +9,22 @@
 - 🌱I can HTML,PASCAL And etc...
 - ☘️ Also Learning Python (not now)
 - 👯 I’m looking Happiness In My Friends 
-- 🤔 I’m looking for Repositories On Telegram 
-- 💬 Ask me in [Telegram](https://t.me/boy_alone_in_universe)
+- 🤔 I’m looking for Repositories On Telegram,Japanese,Korea,Astronomy,Mysteries...
+- 💬 Contact Me in [Telegram](https://t.me/boy_alone_in_universe)
 - 📫 How to reach me: in Telegram
 - 😄 Pronouns: Anthony
 - ⚡ Fun fact: I'm Still Learning
+
+
+
+### CONTACT ME
+
+|  <a href="https://www.instagram.com/mr.matheesha_official"><img src="https://telegra.ph/file/72adac78f0ace575851c9.jpg" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                   |
+|[![Telegram](https://img.shields.io/badge/Telegram-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/Boy_Alone_In_Universe)&nbsp;
+
+
 
 
 ### Tools/Languages
